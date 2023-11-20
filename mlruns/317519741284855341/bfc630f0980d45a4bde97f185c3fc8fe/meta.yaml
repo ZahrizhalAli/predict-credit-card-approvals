@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/PythonProject/2022-MACHINE-LEARNING/Datacamp/Data%20Scientist/02-Predicting-Credit-Card-Approvals/mlruns/317519741284855341/bfc630f0980d45a4bde97f185c3fc8fe/artifacts
+end_time: 1700470387303
+entry_point_name: ''
+experiment_id: '317519741284855341'
+lifecycle_stage: active
+run_id: bfc630f0980d45a4bde97f185c3fc8fe
+run_name: unleashed-finch-605
+run_uuid: bfc630f0980d45a4bde97f185c3fc8fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700470320294
+status: 3
+tags: []
+user_id: user

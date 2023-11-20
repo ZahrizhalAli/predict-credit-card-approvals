@@ -1,0 +1,9 @@
+digest: 5231fc1e
+name: dataset
+profile: '{"features_shape": [462, 328], "features_size": 151536, "features_nbytes":
+  1212288}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 328]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "user", "mlflow.source.name": "C:\\Users\\user\\anaconda3\\envs\\deeplearning\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

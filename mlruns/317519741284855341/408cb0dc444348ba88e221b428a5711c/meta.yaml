@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/PythonProject/2022-MACHINE-LEARNING/Datacamp/Data%20Scientist/02-Predicting-Credit-Card-Approvals/mlruns/317519741284855341/408cb0dc444348ba88e221b428a5711c/artifacts
+end_time: 1700470463321
+entry_point_name: ''
+experiment_id: '317519741284855341'
+lifecycle_stage: active
+run_id: 408cb0dc444348ba88e221b428a5711c
+run_name: rare-lynx-1000
+run_uuid: 408cb0dc444348ba88e221b428a5711c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700470436950
+status: 3
+tags: []
+user_id: user

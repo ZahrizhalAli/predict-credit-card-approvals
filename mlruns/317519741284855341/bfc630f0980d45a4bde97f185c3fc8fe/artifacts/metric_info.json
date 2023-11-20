@@ -1,0 +1,3 @@
+{
+  "LogisticRegression_score_rescaledX_test": "LogisticRegression.score(X=rescaledX_test, y=y_test)"
+}

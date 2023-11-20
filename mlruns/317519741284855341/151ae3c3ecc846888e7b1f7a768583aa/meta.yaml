@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/PythonProject/2022-MACHINE-LEARNING/Datacamp/Data%20Scientist/02-Predicting-Credit-Card-Approvals/mlruns/317519741284855341/151ae3c3ecc846888e7b1f7a768583aa/artifacts
+end_time: 1700470463321
+entry_point_name: ''
+experiment_id: '317519741284855341'
+lifecycle_stage: active
+run_id: 151ae3c3ecc846888e7b1f7a768583aa
+run_name: youthful-stag-135
+run_uuid: 151ae3c3ecc846888e7b1f7a768583aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700470436950
+status: 3
+tags: []
+user_id: user

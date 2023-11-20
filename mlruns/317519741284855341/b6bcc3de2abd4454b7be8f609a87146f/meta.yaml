@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/PythonProject/2022-MACHINE-LEARNING/Datacamp/Data%20Scientist/02-Predicting-Credit-Card-Approvals/mlruns/317519741284855341/b6bcc3de2abd4454b7be8f609a87146f/artifacts
+end_time: 1700470501841
+entry_point_name: ''
+experiment_id: '317519741284855341'
+lifecycle_stage: active
+run_id: b6bcc3de2abd4454b7be8f609a87146f
+run_name: polite-cat-553
+run_uuid: b6bcc3de2abd4454b7be8f609a87146f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700470436950
+status: 3
+tags: []
+user_id: user
