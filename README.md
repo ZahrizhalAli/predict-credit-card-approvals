@@ -10,6 +10,10 @@
 <li>After our data is in good shape, we will do some exploratory data analysis to build our intuitions.</li>
 <li>Finally, we will build a machine learning model that can predict if an individual's application for a credit card will be accepted.</li>
 </ul>
+## Problem Statement
+<p>Inspired by <a href="https://stripe.com/blog/how-we-built-it-stripe-radar">Stripe Radar</a> feature, we wanted to reduce the False Positive (good transaction, but predicted to be not approved), therefore we will also walk through some feature engineering and switching to more generalize yet keep utilizing the power of memorization to improve the model</p>
+
+## Tools
 
 <p>We will be demonstrate the tools below:</p>
 <ul>
